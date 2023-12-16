@@ -21,15 +21,6 @@ This repository contains the source code and documentation for an Online Airline
 - **Code:** Contains the Java source code organized by classes.
 - **Report:** Project report in PDF format.
 - **Demo:** Video showcasing the project in action.
-- **OriginalCode:** Original code file (originalcode.docx).
-- **Documentation:** Additional project documentation.
-- **Screenshots:** Screenshots of the application's interface.
-- **Installation Guide:** Instructions on setting up and running the project.
-- **Usage Guide:** Information on how to interact with the project.
-- **Contributing Guide:** Guidelines for potential contributors.
-- **License:** Information about the project's license.
-- **Acknowledgments:** Credits to external libraries, frameworks, or resources.
-
 
 ## Project Status
 
